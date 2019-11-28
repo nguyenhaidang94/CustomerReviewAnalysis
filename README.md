@@ -1,4 +1,4 @@
-### Project aims at doing Aspect and Sentiment Analysis (Aspect-based sentiment analysis) for customer reviews to help shop owner/restaurant better understand their feedback and improve service quality. It includes two tasks:
+### Project aims at doing Aspect and Sentiment Analysis (Aspect-based sentiment analysis) for customer reviews. It helps shop owner/restaurant better understand their feedback and improve service quality. It includes two tasks:
 * Identify the topic that is mentioned in each customer feedback.
 * Identify the polarity of each comments (whether it is positive or negative)
 
